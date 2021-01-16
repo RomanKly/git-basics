@@ -1,3 +1,7 @@
 h1 {
   fon-weight: norma;
 }
+
+dev {
+    border-line: none;
+}
